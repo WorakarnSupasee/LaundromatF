@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 2,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "emmet.useInlineCompletions": true,
+    "editor.tabCompletion": "on",
+    "editor.inlineCompletionsAccessibilityVerbose": true
+}
