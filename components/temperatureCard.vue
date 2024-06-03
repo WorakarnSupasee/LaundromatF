@@ -58,8 +58,8 @@ export default {
   created () {},
   mounted () {
     this.setTemp(this.temp)
-    console.log('status', this.status)
-    console.log('temp', this.temp)
+    // console.log('status', this.status)
+    // console.log('temp', this.temp)
   },
   methods: {
     setTemp (value) {
